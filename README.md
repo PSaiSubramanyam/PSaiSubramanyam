@@ -1,4 +1,4 @@
-![logo](https://github.com/PSaiSubramanyam/PSaiSubramanyam/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo](https://github.com/PSaiSubramanyam/PSaiSubramanyam/blob/main/P.SAI%20SUBRAMANYAM.jpg)
 <h1 align="center">Hi 👋, I'm P. SAI SUBRAMANYAM</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="Data Science" width="400" scr= "https://community.nasscom.in/sites/default/files/media/images/data-scientist-without-a-degree-scaled.jpg">
