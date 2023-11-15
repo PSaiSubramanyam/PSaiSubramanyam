@@ -4,19 +4,17 @@
 <img align="right" alt="Data Science" width="400" scr= "https://community.nasscom.in/sites/default/files/media/images/data-scientist-without-a-degree-scaled.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psaisubramanyam&label=Profile%20views&color=0e75b6&style=flat" alt="psaisubramanyam" /> </p>
 
-- 🔭 I’m currently working on project **Electric Motor Temperature**
+- 🔭 I’m completed projects on **1 Electric Motor Temperature and Motor speed prediction, 2 Bankruptcy Prediction , 3 World Development Measurment used clustring method to slove. **
 
 - 🌱 I’m currently learning **Data science**
-
-- I'm completed my project [Design and CFD Analysis of Rocket nozzles](file:///C:/Users/P.SAI%20SUBRAMANYAM/Downloads/MAJOR%20PROJECT%20FINAL%20PPT%20B.no%2011%20(1).pdf)
-
+  
 - 💬 Ask me about **python, Machine learning.**
 
 - 📫 How to reach me **puchasaisubramanyam@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/P.SAI%20SUBRAMANYAM/Desktop/SAI/RESUME/P%20sai%20resume%20(2).pdf](file:///C:/Users/P.SAI%20SUBRAMANYAM/Desktop/SAI/RESUME/P%20sai%20resume%20(2).pdf)
 
-- ⚡ Fun fact **I THINK IM FUNNNY**
+- ⚡ Fun fact **Think mentally and creat the world propely**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
